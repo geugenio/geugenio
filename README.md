@@ -18,7 +18,7 @@ Aqui no meu GitHub, reúno projetos pessoais e trabalhos acadêmicos do ensino m
 </div>
 
 ## 💼 Sobre Mim
-- 👨‍🎓 Cursando o 4º semestre do Bacharelado em Tecnologia da Informação (BTI) na UFRN
+- 👨‍🎓 Cursando o 6º semestre do Bacharelado em Tecnologia da Informação (BTI) na UFRN
 - 🎓 Técnico em Informática pelo IFRN — Campus São Gonçalo do Amarante
 - 🔭 Atuando como desenvolvedor Full-Stack
 - 🌱 Estudando Spring Boot (Java) e Angular
